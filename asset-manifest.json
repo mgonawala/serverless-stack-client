@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/serverless-stack-client/static/css/main.d29a5f18.chunk.css",
+    "main.js": "/serverless-stack-client/static/js/main.28935dcf.chunk.js",
+    "main.js.map": "/serverless-stack-client/static/js/main.28935dcf.chunk.js.map",
+    "runtime-main.js": "/serverless-stack-client/static/js/runtime-main.58ab0cdb.js",
+    "runtime-main.js.map": "/serverless-stack-client/static/js/runtime-main.58ab0cdb.js.map",
+    "static/js/2.4efb1768.chunk.js": "/serverless-stack-client/static/js/2.4efb1768.chunk.js",
+    "static/js/2.4efb1768.chunk.js.map": "/serverless-stack-client/static/js/2.4efb1768.chunk.js.map",
+    "index.html": "/serverless-stack-client/index.html",
+    "precache-manifest.cb98c630bcdde42a4c45902a697a1a70.js": "/serverless-stack-client/precache-manifest.cb98c630bcdde42a4c45902a697a1a70.js",
+    "service-worker.js": "/serverless-stack-client/service-worker.js",
+    "static/css/main.d29a5f18.chunk.css.map": "/serverless-stack-client/static/css/main.d29a5f18.chunk.css.map",
+    "static/js/2.4efb1768.chunk.js.LICENSE.txt": "/serverless-stack-client/static/js/2.4efb1768.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58ab0cdb.js",
+    "static/js/2.4efb1768.chunk.js",
+    "static/css/main.d29a5f18.chunk.css",
+    "static/js/main.28935dcf.chunk.js"
+  ]
+}
